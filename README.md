@@ -1,3 +1,5 @@
+[NEWEST VERSION](https://github.com/leukwings/GeoFSAdBlock/releases/tag/1.0.0)
+
 # GeoFSAdBlock
 This is a GeoFS Ad Blocker so if you playing with it, the side ad doesn't annoy you.
 
