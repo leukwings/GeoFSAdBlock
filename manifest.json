@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "GeoFS Ad Blocker",
   "version": "1.0",
-  "description": "Automatically removes ads from GeoFS.",
+  "description": "Automatically removes the side ad from GeoFS.",
   "permissions": [
     "activeTab"
   ],
