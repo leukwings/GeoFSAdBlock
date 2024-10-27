@@ -7,16 +7,16 @@
     "activeTab"
   ],
   "icons": {
-    "48": "logo.png"  // Pfad zum Logo-Bild
+    "48": "logo.png"
   },
   "content_scripts": [
     {
-      "matches": ["*://*.geo-fs.com/*"],  // Stelle sicher, dass die Domain korrekt ist
+      "matches": ["*://*.geo-fs.com/*"],
       "js": ["content.js"]
     }
   ],
   "browser_action": {
-    "default_icon": "logo.png", // Icon in der Toolbar
-    "default_popup": "popup.html" // Optional: Popup, wenn das Icon geklickt wird
+    "default_icon": "logo.png",
+    "default_popup": "popup.html"
   }
 }
